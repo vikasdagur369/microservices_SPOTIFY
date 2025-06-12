@@ -1,6 +1,6 @@
 # Spotify Clone
 
-##Live link : [BeatStream](http://13.61.33.115:3000/)
+## Live link : [BeatStream](http://13.61.33.115:3000/)
 
 A scalable Spotify clone built with **Node.js**, **TypeScript**, and a **microservices architecture**. This project replicates core Spotify functionalities like music streaming, playlist management, user authentication, and song recommendations using a modular, distributed system.
 
